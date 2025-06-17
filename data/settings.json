@@ -1,0 +1,535 @@
+[
+    {
+        "category": "General",
+        "settings": [
+            {
+                "type": 6,
+                "name": "alwaysSprint",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Dungeons",
+        "settings": [
+            {
+                "type": 6,
+                "name": "bonzoStop",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "stormTickTimerEnabled",
+                "value": false
+            },
+            {
+                "type": 2,
+                "name": "moveStormTickTimer"
+            },
+            {
+                "type": 6,
+                "name": "partyFinderNotification",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "partyFinderSound",
+                "value": 4
+            },
+            {
+                "type": 1,
+                "name": "partyFinderPitch",
+                "value": 1
+            },
+            {
+                "type": 10,
+                "name": "stonkSwap",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "stonkSwapDing",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "stonkSwapSound",
+                "value": 4
+            },
+            {
+                "type": 1,
+                "name": "stonkSwapPitch",
+                "value": 1
+            },
+            {
+                "type": 6,
+                "name": "autoEquip",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Wither King",
+        "settings": [
+            {
+                "type": 6,
+                "name": "relicTimerEnabled",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "relicLook",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "relicTriggerbot",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "blinkRelics",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "relicAura",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "dragPrio",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "healerGoWithArch",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "minSplitPower",
+                "value": 5
+            }
+        ]
+    },
+    {
+        "category": "Terminals",
+        "settings": [
+            {
+                "type": 6,
+                "name": "autop3",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "editMode",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "autoSave",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "activeOnce",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "route",
+                "value": ""
+            },
+            {
+                "type": 6,
+                "name": "render",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "startOnBoss",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "startOn",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "startOnText",
+                "value": ""
+            },
+            {
+                "type": 6,
+                "name": "routeP1On",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "routeP1",
+                "value": ""
+            },
+            {
+                "type": 6,
+                "name": "routeP3On",
+                "value": false
+            },
+            {
+                "type": 4,
+                "name": "routeP3",
+                "value": ""
+            },
+            {
+                "type": 6,
+                "name": "terminalTimestamps",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "melodyWarningEnabled",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "melodyColor",
+                "value": 3
+            },
+            {
+                "type": 7,
+                "name": "melodyWarningSound",
+                "value": 4
+            },
+            {
+                "type": 1,
+                "name": "melodyWarningPitch",
+                "value": 1
+            },
+            {
+                "type": 2,
+                "name": "moveMelodyWarning"
+            },
+            {
+                "type": 6,
+                "name": "auto4",
+                "value": false
+            },
+            {
+                "type": 1,
+                "name": "auto4PredictionTimeout",
+                "value": 2
+            },
+            {
+                "type": 6,
+                "name": "auto4Stats",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "auto4Solver",
+                "value": false
+            },
+            {
+                "type": 5,
+                "name": "predictionColor",
+                "value": [
+                    0,
+                    255,
+                    255,
+                    89
+                ]
+            },
+            {
+                "type": 5,
+                "name": "alreadyShotColor",
+                "value": [
+                    255,
+                    0,
+                    0,
+                    89
+                ]
+            },
+            {
+                "type": 6,
+                "name": "autoRod",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "coreTimer",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Pet Keybinds",
+        "settings": [
+            {
+                "type": 4,
+                "name": "petOne",
+                "value": ""
+            },
+            {
+                "type": 10,
+                "name": "petOneKeybind",
+                "value": 0
+            },
+            {
+                "type": 4,
+                "name": "petTwo",
+                "value": ""
+            },
+            {
+                "type": 10,
+                "name": "petTwoKeybind",
+                "value": 0
+            },
+            {
+                "type": 4,
+                "name": "petThree",
+                "value": ""
+            },
+            {
+                "type": 10,
+                "name": "petThreeKeybind",
+                "value": 0
+            },
+            {
+                "type": 4,
+                "name": "petFour",
+                "value": ""
+            },
+            {
+                "type": 10,
+                "name": "petFourKeybind",
+                "value": 0
+            },
+            {
+                "type": 4,
+                "name": "petFive",
+                "value": ""
+            },
+            {
+                "type": 10,
+                "name": "petFiveKeybind",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "category": "Leap",
+        "settings": [
+            {
+                "type": 6,
+                "name": "i4AutoLeap",
+                "value": false
+            },
+            {
+                "type": 6,
+                "name": "autoLeapMode",
+                "value": false
+            },
+            {
+                "type": 7,
+                "name": "leapClass",
+                "value": 4
+            },
+            {
+                "type": 4,
+                "name": "leapPlayer",
+                "value": "ITheSerenity"
+            },
+            {
+                "type": 6,
+                "name": "ee2",
+                "value": false
+            },
+            {
+                "type": 3,
+                "name": "ee2Class",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "ee3",
+                "value": false
+            },
+            {
+                "type": 3,
+                "name": "ee3Class",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "core",
+                "value": false
+            },
+            {
+                "type": 3,
+                "name": "coreClass",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "tankKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "mageKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "berserkKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "archerKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "healerKeybind",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "category": "Simulation",
+        "settings": [
+            {
+                "type": 6,
+                "name": "simulateSpeed",
+                "value": true
+            },
+            {
+                "type": 6,
+                "name": "simulateLavaBounce",
+                "value": true
+            }
+        ]
+    },
+    {
+        "category": "ESP",
+        "settings": [
+            {
+                "type": 10,
+                "name": "witherAimbot",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "espWither",
+                "value": false
+            },
+            {
+                "type": 5,
+                "name": "witherESPColor",
+                "value": [
+                    0,
+                    255,
+                    255,
+                    89
+                ]
+            },
+            {
+                "type": 6,
+                "name": "espTerminals",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Clip",
+        "settings": [
+            {
+                "type": 6,
+                "name": "bossClip",
+                "value": false
+            },
+            {
+                "type": 10,
+                "name": "blockClipKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "hclipKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "blinkKey",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "lavaVclipKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "barPhaseKeybind",
+                "value": 0
+            },
+            {
+                "type": 6,
+                "name": "barPhaseToggle",
+                "value": false
+            }
+        ]
+    },
+    {
+        "category": "Wardrobe",
+        "settings": [
+            {
+                "type": 10,
+                "name": "wdOneKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdTwoKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdThreeKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdFourKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdFiveKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdSixKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdSevenKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdEightKeybind",
+                "value": 0
+            },
+            {
+                "type": 10,
+                "name": "wdNineKeybind",
+                "value": 0
+            }
+        ]
+    }
+]
