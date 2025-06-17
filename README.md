@@ -8,7 +8,8 @@
 > Download the repo as a .zip, extract and move it to your
 >
 > .minecraft/config/ChatTriggers/modules/
->
+> rings.json goes in config/catgirlyharim/ (might need to make folder)
+> check releases for the config
 ## THEN DO /ct load OR ELSE IT MAY NOT WORK PROPERLY
 > 
 > If you dont have chattriggers google it
